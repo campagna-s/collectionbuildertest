@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://www.loc.gov/resource/rbc.2015rosen1791/?sp=13&st=image" %}
+{% include feature/jumbotron.html objectid="sample_001" %}
 
 ## About the Collection
 
