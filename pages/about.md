@@ -12,5 +12,5 @@ credits: true
 
 ## About the Collection
 
-This site comtains a sample collection of book pages from the Library of Congress. It was generated as an assignment for SI676.
+This site contains a sample collection of book pages from the Library of Congress. It was generated as an assignment for SI676.
 
